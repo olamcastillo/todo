@@ -1,0 +1,1 @@
+#todo app builded for practicing localstorage knowledge and oop skills
